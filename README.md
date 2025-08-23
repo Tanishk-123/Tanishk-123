@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects using Javascript.
 - 📫 How to reach me
 - Mail Id: sethiyatanishk@gmail.com
-- LinkedIn: https://www.linkedin.com/in/tanishk-sethiya-133a52302 
+- LinkedIn: https://www.linkedin.com/in/tanishk-sethiya487
 
 <!---
 Tanishk-123/Tanishk-123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
