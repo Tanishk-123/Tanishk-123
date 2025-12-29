@@ -1,5 +1,8 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D1FF&height=250&section=header&text=Hey%20there,%20I'm%20Tanishk!%20👋&fontSize=50&animation=fadeIn&fontAlignY=35&desc=An%20Overthinker%20Dev&descSize=20&descAlignY=60" />
+</div>
 
+<div align="center">  
 # Hey there, I'm Tanishk! 👋
 
 <img src="https://github.com/Tanishk-123.png" alt="Tanishk Sethiya" width="150" height="150" style="border-radius: 50%; border: 3px solid #7d5fff;" />
