@@ -3,7 +3,6 @@
 </div>
 
 <div align="center">  
-# Hey there, I'm Tanishk! 👋
 
 <img src="https://github.com/Tanishk-123.png" alt="Tanishk Sethiya" width="150" height="150" style="border-radius: 50%; border: 3px solid #7d5fff;" />
 
